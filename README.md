@@ -46,4 +46,4 @@ streamlit run app.py
 - Advanced analytics dashboard
 
 ## Author
-Thesha
+Theshalini Vijayakumar
