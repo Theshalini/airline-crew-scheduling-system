@@ -1,0 +1,13 @@
+# Data handling
+pandas
+numpy
+# Machine Learning
+scikit-learn
+joblib
+# Visualization (optional, light)
+matplotlib
+seaborn
+# Web App
+streamlit
+# Utilities
+python-dateutil
